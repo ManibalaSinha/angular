@@ -1,0 +1,7 @@
+"architect": {
+  "build": {
+    "options": {
+      "tsConfig": "tsconfig.app.json"
+    }
+  }
+}
