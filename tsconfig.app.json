@@ -4,6 +4,13 @@
     "outDir": "../out-tsc/app",
     "types": []
   },
+  "architect": {
+  "build": {
+    "options": {
+      "tsConfig": "tsconfig.app.json" // update path if different
+    }
+  }
+}
   "exclude": [
     "test.ts",
     "**/*.spec.ts"
