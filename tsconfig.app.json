@@ -7,7 +7,7 @@
   "architect": {
   "build": {
     "options": {
-      "tsConfig": "tsconfig.app.json" // update path if different
+      "tsConfig": "tsconfig.app.json" 
     }
   }
 }
